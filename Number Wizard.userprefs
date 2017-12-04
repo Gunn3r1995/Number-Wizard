@@ -1,12 +1,10 @@
-﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NumberWizards.cs">
-    <Files>
-      <File FileName="Assets/Scripts/NumberWizards.cs" Line="21" Column="2" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{707916BA-A9EE-D973-6E3A-2E96EC4A4105}|">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Number_220Wizard PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
 </Properties>
